@@ -59,12 +59,12 @@
 :iabbrev adn    and
 :iabbrev waht   what
 :iabbrev tehn   then
-:iabbrev bjc@   will.armstrong@bjc.org
-:iabbrev per@   will.c.armstrong@gmail.com
-:iabbrev ccopy  Copyright 2015 Will Armstrong, all rights reserved.
-:iabbrev sigbjc <cr>Will Armstrong<cr>Healthcare Informaticist<cr>BJC Healthcare<cr>
-    \will.armstrong@bjc.org
-:iabbrev sigper <cr>Will Armstrong<cr>will.c.armstrong@gmail.com
+:iabbrev work@  you@work.example
+:iabbrev per@   you@example.com
+:iabbrev ccopy  Copyright YEAR Your Name, all rights reserved.
+:iabbrev sigwork <cr>Your Name<cr>Job Title<cr>Employer<cr>
+    \you@work.example
+:iabbrev sigper <cr>Your Name<cr>you@example.com
 
 " Mappings to comment lines
 :augroup cmds
